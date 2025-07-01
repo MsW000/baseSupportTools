@@ -1,0 +1,17 @@
+📁 SmartSupportTools/
+│
+├── 📄 form_checker.py         # Начальный скрипт: парсинг JSON-анкеты
+├── 📄 form_validator.py       # Проверка полей (валидация)
+├── 📄 form_logger.py          # Логирование проблем
+├── 📄 report_generator.py     # Генерация отчётов
+├── 📄 api_client.py           # Работа с внешними API (позже)
+├── 📄 database.py             # SQLite: сохранение анкет
+├── 📁 data/
+│   └── 🧾 test_forms.json      # Примеры анкет
+├── 📁 logs/
+│   └── 🗒️ errors.log           # Логи ошибок
+├── 📁 reports/
+│   └── 📑 report.md            # Багрепорты
+├── 📁 db/
+│   └── 📦 forms.db             # Локальная база данных SQLite
+└── README.md                  # Документация проекта

@@ -1,0 +1,23 @@
+[
+  {
+    "name": "Ева",
+    "email": "",
+    "phone": "+7 911 123 45 67",
+    "message": "Хочу узнать про условия",
+    "city": "Минск"
+  },
+  {
+    "name": "Андрей",
+    "email": "andrei@example.com",
+    "phone": "",
+    "message": "",
+    "city": "Гомель"
+  },
+  {
+    "name": "Соня",
+    "email": "sonya@mail.ru",
+    "phone": "+375 33 000 11 22",
+    "message": "Хочу оставить отзыв",
+    "city": "Брест"
+  }
+]
