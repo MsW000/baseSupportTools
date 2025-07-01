@@ -31,7 +31,14 @@
 
 ## 📁 Структура проекта
 
-SmartSupportTools/ ├── form_checker.py # Точка входа ├── form_validator.py # Проверка полей ├── form_logger.py # Запись ошибок ├── report_generator.py # Markdown-отчёт ├── export_to_csv.py # Экспорт в .csv ├── export_to_excel.py # Экспорт в Excel ├── stats_report.py # Статистика ├── 
+SmartSupportTools/ 
+├── form_checker.py # Точка входа 
+├── form_validator.py # Проверка полей 
+├── form_logger.py # Запись ошибок 
+├── report_generator.py # Markdown-отчёт 
+├── export_to_csv.py # Экспорт в .csv 
+├── export_to_excel.py # Экспорт в Excel 
+├── stats_report.py # Статистика ├── 
 
 ---
 
