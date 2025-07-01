@@ -4,48 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="b6311193-e706-41c4-ad40-2f2b95c81045" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/SmartSupportTools.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.venv/Scripts/libcrypto-3.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.venv/Scripts/libffi-8.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.venv/Scripts/libssl-3.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.venv/Scripts/pyexpat.cp313t-win_amd64.pyd" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.venv/Scripts/pyexpat.pyd" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.venv/Scripts/pyexpat_d.cp313t-win_amd64.pyd" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.venv/Scripts/pyexpat_d.pyd" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.venv/Scripts/python.exe" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.venv/Scripts/python3.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.venv/Scripts/python313.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.venv/Scripts/python313_d.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.venv/Scripts/python313t.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.venv/Scripts/python313t_d.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.venv/Scripts/python3_d.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.venv/Scripts/python3t.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.venv/Scripts/python3t_d.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.venv/Scripts/pythonw.exe" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.venv/Scripts/select.cp313t-win_amd64.pyd" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.venv/Scripts/select.pyd" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.venv/Scripts/select_d.cp313t-win_amd64.pyd" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.venv/Scripts/select_d.pyd" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.venv/Scripts/sqlite3.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.venv/Scripts/vcruntime140.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.venv/Scripts/vcruntime140_1.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.venv/pyvenv.cfg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/test_forms.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/database.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/export_to_csv.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/export_to_excel.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/form_checker.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/form_logger.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/form_validator.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/report_generator.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/stats_report.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/view_forms.py" afterDir="false" />
+    <list default="true" id="b6311193-e706-41c4-ad40-2f2b95c81045" name="Changes" comment="sdf">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -62,6 +22,18 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN",
+    "assignee": "MsW000"
+  }
+}]]></component>
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/MsW000/baseSupportTools.git",
+    "accountId": "e1ae1d07-6cab-4567-8baa-98c31c1c90c5"
+  }
+}]]></component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 2
 }</component>
@@ -100,6 +72,19 @@
       <option name="presentableId" value="Default" />
       <updated>1750205100336</updated>
     </task>
+    <task id="LOCAL-00001" summary="sdf">
+      <option name="closed" value="true" />
+      <created>1751333998041</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1751333998041</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="sdf" />
+    <option name="LAST_COMMIT_MESSAGE" value="sdf" />
   </component>
 </project>
