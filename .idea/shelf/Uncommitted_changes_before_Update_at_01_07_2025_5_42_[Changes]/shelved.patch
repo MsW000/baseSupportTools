@@ -1,0 +1,134 @@
+Index: logs/errors.log
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.BaseRevisionTextPatchEP
+<+>[Анкета 1] Отсутствует поле: email\r\n[Анкета 2] Отсутствует поле: phone\r\n[Анкета 2] Отсутствует поле: message\r\n[Анкета 1] Отсутствует поле: email\r\n[Анкета 2] Отсутствует поле: phone\r\n[Анкета 2] Отсутствует поле: message\r\n[Анкета 1] Отсутствует поле: email\r\n[Анкета 2] Отсутствует поле: phone\r\n[Анкета 2] Отсутствует поле: message\r\n[Анкета 1] Отсутствует поле: email\r\n[Анкета 2] Отсутствует поле: phone\r\n[Анкета 2] Отсутствует поле: message\r\n[Анкета 1] Отсутствует поле: email\r\n[Анкета 2] Отсутствует поле: phone\r\n[Анкета 2] Отсутствует поле: message\r\n[Анкета 1] Отсутствует поле: email\r\n[Анкета 2] Отсутствует поле: phone\r\n[Анкета 2] Отсутствует поле: message\r\n[Анкета 1] Отсутствует поле: email\r\n[Анкета 2] Отсутствует поле: phone\r\n[Анкета 2] Отсутствует поле: message\r\n
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/logs/errors.log b/logs/errors.log
+--- a/logs/errors.log	(revision f2e8f092754599ef9297268ab8fbcd1054fc6137)
++++ b/logs/errors.log	(date 1751337534759)
+@@ -19,3 +19,6 @@
+ [Анкета 1] Отсутствует поле: email
+ [Анкета 2] Отсутствует поле: phone
+ [Анкета 2] Отсутствует поле: message
++[Анкета 1] Отсутствует поле: email
++[Анкета 2] Отсутствует поле: phone
++[Анкета 2] Отсутствует поле: message
+Index: reports/report.md
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.BaseRevisionTextPatchEP
+<+># \uD83D\uDCCB Отчёт по проверке анкет\r\n_Сформированно: 2025-07-01 04:39:13_\r\n\r\n## Анкета 1\r\n**Ошибка:**\r\n
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/reports/report.md b/reports/report.md
+--- a/reports/report.md	(revision f2e8f092754599ef9297268ab8fbcd1054fc6137)
++++ b/reports/report.md	(date 1751337534759)
+@@ -1,5 +1,5 @@
+ # 📋 Отчёт по проверке анкет
+-_Сформированно: 2025-07-01 04:39:13_
++_Сформированно: 2025-07-01 05:38:54_
+ 
+ ## Анкета 1
+ **Ошибка:**
+Index: .idea/workspace.xml
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.BaseRevisionTextPatchEP
+<+><?xml version=\"1.0\" encoding=\"UTF-8\"?>\r\n<project version=\"4\">\r\n  <component name=\"AutoImportSettings\">\r\n    <option name=\"autoReloadType\" value=\"SELECTIVE\" />\r\n  </component>\r\n  <component name=\"ChangeListManager\">\r\n    <list default=\"true\" id=\"b6311193-e706-41c4-ad40-2f2b95c81045\" name=\"Changes\" comment=\"Заливаю пока как есть. В дальнейшем заучиваю, что здесь есть, и хотелось бы обложить немного проверками и попробовать сломать что-нибудь тут.\" />\r\n    <option name=\"SHOW_DIALOG\" value=\"false\" />\r\n    <option name=\"HIGHLIGHT_CONFLICTS\" value=\"true\" />\r\n    <option name=\"HIGHLIGHT_NON_ACTIVE_CHANGELIST\" value=\"false\" />\r\n    <option name=\"LAST_RESOLUTION\" value=\"IGNORE\" />\r\n  </component>\r\n  <component name=\"FileTemplateManagerImpl\">\r\n    <option name=\"RECENT_TEMPLATES\">\r\n      <list>\r\n        <option value=\"Python Script\" />\r\n      </list>\r\n    </option>\r\n  </component>\r\n  <component name=\"Git.Settings\">\r\n    <option name=\"PUSH_TAGS\">\r\n      <GitPushTagMode>\r\n        <option name=\"argument\" value=\"--tags\" />\r\n        <option name=\"title\" value=\"All\" />\r\n      </GitPushTagMode>\r\n    </option>\r\n    <option name=\"RECENT_GIT_ROOT_PATH\" value=\"$PROJECT_DIR$\" />\r\n  </component>\r\n  <component name=\"GitHubPullRequestSearchHistory\"><![CDATA[{\r\n  \"lastFilter\": {\r\n    \"state\": \"OPEN\",\r\n    \"assignee\": \"MsW000\"\r\n  }\r\n}]]></component>\r\n  <component name=\"GithubPullRequestsUISettings\"><![CDATA[{\r\n  \"selectedUrlAndAccountId\": {\r\n    \"url\": \"https://github.com/MsW000/baseSupportTools.git\",\r\n    \"accountId\": \"e1ae1d07-6cab-4567-8baa-98c31c1c90c5\"\r\n  }\r\n}]]></component>\r\n  <component name=\"ProjectColorInfo\">{\r\n  &quot;associatedIndex&quot;: 2\r\n}</component>\r\n  <component name=\"ProjectId\" id=\"2yepseHR5H4L3mNuTjhNPhCgJrV\" />\r\n  <component name=\"ProjectViewState\">\r\n    <option name=\"hideEmptyMiddlePackages\" value=\"true\" />\r\n    <option name=\"showLibraryContents\" value=\"true\" />\r\n  </component>\r\n  <component name=\"PropertiesComponent\"><![CDATA[{\r\n  \"keyToString\": {\r\n    \"ModuleVcsDetector.initialDetectionPerformed\": \"true\",\r\n    \"Python.export_to_csv.executor\": \"Run\",\r\n    \"Python.form_checker.executor\": \"Run\",\r\n    \"Python.form_logger.executor\": \"Run\",\r\n    \"Python.form_validator.executor\": \"Run\",\r\n    \"Python.report_generator.executor\": \"Run\",\r\n    \"Python.stats_report.executor\": \"Run\",\r\n    \"Python.view_forms.executor\": \"Run\",\r\n    \"RunOnceActivity.ShowReadmeOnStart\": \"true\",\r\n    \"RunOnceActivity.git.unshallow\": \"true\",\r\n    \"git-widget-placeholder\": \"master\"\r\n  }\r\n}]]></component>\r\n  <component name=\"SharedIndexes\">\r\n    <attachedChunks>\r\n      <set>\r\n        <option value=\"bundled-python-sdk-dfff61a61320-9cdd278e9d02-com.jetbrains.pycharm.community.sharedIndexes.bundled-PC-251.25410.159\" />\r\n      </set>\r\n    </attachedChunks>\r\n  </component>\r\n  <component name=\"TaskManager\">\r\n    <task active=\"true\" id=\"Default\" summary=\"Default task\">\r\n      <changelist id=\"b6311193-e706-41c4-ad40-2f2b95c81045\" name=\"Changes\" comment=\"\" />\r\n      <created>1750205100336</created>\r\n      <option name=\"number\" value=\"Default\" />\r\n      <option name=\"presentableId\" value=\"Default\" />\r\n      <updated>1750205100336</updated>\r\n    </task>\r\n    <task id=\"LOCAL-00001\" summary=\"sdf\">\r\n      <option name=\"closed\" value=\"true\" />\r\n      <created>1751333998041</created>\r\n      <option name=\"number\" value=\"00001\" />\r\n      <option name=\"presentableId\" value=\"LOCAL-00001\" />\r\n      <option name=\"project\" value=\"LOCAL\" />\r\n      <updated>1751333998041</updated>\r\n    </task>\r\n    <task id=\"LOCAL-00002\" summary=\"Заливаю пока как есть. В дальнейшем заучиваю, что здесь есть, и хотелось бы обложить немного проверками и попробовать сломать что-нибудь тут.\">\r\n      <option name=\"closed\" value=\"true\" />\r\n      <created>1751334740082</created>\r\n      <option name=\"number\" value=\"00002\" />\r\n      <option name=\"presentableId\" value=\"LOCAL-00002\" />\r\n      <option name=\"project\" value=\"LOCAL\" />\r\n      <updated>1751334740082</updated>\r\n    </task>\r\n    <task id=\"LOCAL-00003\" summary=\"Заливаю пока как есть. В дальнейшем заучиваю, что здесь есть, и хотелось бы обложить немного проверками и попробовать сломать что-нибудь тут.\">\r\n      <option name=\"closed\" value=\"true\" />\r\n      <created>1751334852534</created>\r\n      <option name=\"number\" value=\"00003\" />\r\n      <option name=\"presentableId\" value=\"LOCAL-00003\" />\r\n      <option name=\"project\" value=\"LOCAL\" />\r\n      <updated>1751334852534</updated>\r\n    </task>\r\n    <task id=\"LOCAL-00004\" summary=\"Заливаю пока как есть. В дальнейшем заучиваю, что здесь есть, и хотелось бы обложить немного проверками и попробовать сломать что-нибудь тут.\">\r\n      <option name=\"closed\" value=\"true\" />\r\n      <created>1751336289623</created>\r\n      <option name=\"number\" value=\"00004\" />\r\n      <option name=\"presentableId\" value=\"LOCAL-00004\" />\r\n      <option name=\"project\" value=\"LOCAL\" />\r\n      <updated>1751336289623</updated>\r\n    </task>\r\n    <option name=\"localTasksCounter\" value=\"5\" />\r\n    <servers />\r\n  </component>\r\n  <component name=\"VcsManagerConfiguration\">\r\n    <MESSAGE value=\"sdf\" />\r\n    <MESSAGE value=\"Заливаю пока как есть. В дальнейшем заучиваю, что здесь есть, и хотелось бы обложить немного проверками и попробовать сломать что-нибудь тут.\" />\r\n    <option name=\"LAST_COMMIT_MESSAGE\" value=\"Заливаю пока как есть. В дальнейшем заучиваю, что здесь есть, и хотелось бы обложить немного проверками и попробовать сломать что-нибудь тут.\" />\r\n  </component>\r\n</project>
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/.idea/workspace.xml b/.idea/workspace.xml
+--- a/.idea/workspace.xml	(revision f2e8f092754599ef9297268ab8fbcd1054fc6137)
++++ b/.idea/workspace.xml	(date 1751337561106)
+@@ -4,7 +4,10 @@
+     <option name="autoReloadType" value="SELECTIVE" />
+   </component>
+   <component name="ChangeListManager">
+-    <list default="true" id="b6311193-e706-41c4-ad40-2f2b95c81045" name="Changes" comment="Заливаю пока как есть. В дальнейшем заучиваю, что здесь есть, и хотелось бы обложить немного проверками и попробовать сломать что-нибудь тут." />
++    <list default="true" id="b6311193-e706-41c4-ad40-2f2b95c81045" name="Changes" comment="Заливаю пока как есть. В дальнейшем заучиваю, что здесь есть, и хотелось бы обложить немного проверками и попробовать сломать что-нибудь тут.">
++      <change beforePath="$PROJECT_DIR$/logs/errors.log" beforeDir="false" afterPath="$PROJECT_DIR$/logs/errors.log" afterDir="false" />
++      <change beforePath="$PROJECT_DIR$/reports/report.md" beforeDir="false" afterPath="$PROJECT_DIR$/reports/report.md" afterDir="false" />
++    </list>
+     <option name="SHOW_DIALOG" value="false" />
+     <option name="HIGHLIGHT_CONFLICTS" value="true" />
+     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+@@ -27,17 +30,14 @@
+     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+   </component>
+   <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+-  "lastFilter": {
+-    "state": "OPEN",
+-    "assignee": "MsW000"
+-  }
+-}]]></component>
+-  <component name="GithubPullRequestsUISettings"><![CDATA[{
+-  "selectedUrlAndAccountId": {
+-    "url": "https://github.com/MsW000/baseSupportTools.git",
+-    "accountId": "e1ae1d07-6cab-4567-8baa-98c31c1c90c5"
+-  }
++  "lastFilter": {}
+ }]]></component>
++  <component name="GithubPullRequestsUISettings">{
++  &quot;selectedUrlAndAccountId&quot;: {
++    &quot;url&quot;: &quot;https://github.com/MsW000/baseSupportTools.git&quot;,
++    &quot;accountId&quot;: &quot;e1ae1d07-6cab-4567-8baa-98c31c1c90c5&quot;
++  }
++}</component>
+   <component name="ProjectColorInfo">{
+   &quot;associatedIndex&quot;: 2
+ }</component>
+@@ -46,21 +46,21 @@
+     <option name="hideEmptyMiddlePackages" value="true" />
+     <option name="showLibraryContents" value="true" />
+   </component>
+-  <component name="PropertiesComponent"><![CDATA[{
+-  "keyToString": {
+-    "ModuleVcsDetector.initialDetectionPerformed": "true",
+-    "Python.export_to_csv.executor": "Run",
+-    "Python.form_checker.executor": "Run",
+-    "Python.form_logger.executor": "Run",
+-    "Python.form_validator.executor": "Run",
+-    "Python.report_generator.executor": "Run",
+-    "Python.stats_report.executor": "Run",
+-    "Python.view_forms.executor": "Run",
+-    "RunOnceActivity.ShowReadmeOnStart": "true",
+-    "RunOnceActivity.git.unshallow": "true",
+-    "git-widget-placeholder": "master"
++  <component name="PropertiesComponent">{
++  &quot;keyToString&quot;: {
++    &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
++    &quot;Python.export_to_csv.executor&quot;: &quot;Run&quot;,
++    &quot;Python.form_checker.executor&quot;: &quot;Run&quot;,
++    &quot;Python.form_logger.executor&quot;: &quot;Run&quot;,
++    &quot;Python.form_validator.executor&quot;: &quot;Run&quot;,
++    &quot;Python.report_generator.executor&quot;: &quot;Run&quot;,
++    &quot;Python.stats_report.executor&quot;: &quot;Run&quot;,
++    &quot;Python.view_forms.executor&quot;: &quot;Run&quot;,
++    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
++    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
++    &quot;git-widget-placeholder&quot;: &quot;master&quot;
+   }
+-}]]></component>
++}</component>
+   <component name="SharedIndexes">
+     <attachedChunks>
+       <set>
+@@ -108,7 +108,15 @@
+       <option name="project" value="LOCAL" />
+       <updated>1751336289623</updated>
+     </task>
+-    <option name="localTasksCounter" value="5" />
++    <task id="LOCAL-00005" summary="Заливаю пока как есть. В дальнейшем заучиваю, что здесь есть, и хотелось бы обложить немного проверками и попробовать сломать что-нибудь тут.">
++      <option name="closed" value="true" />
++      <created>1751337527408</created>
++      <option name="number" value="00005" />
++      <option name="presentableId" value="LOCAL-00005" />
++      <option name="project" value="LOCAL" />
++      <updated>1751337527408</updated>
++    </task>
++    <option name="localTasksCounter" value="6" />
+     <servers />
+   </component>
+   <component name="VcsManagerConfiguration">
