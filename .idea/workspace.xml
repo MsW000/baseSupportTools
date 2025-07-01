@@ -4,7 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="b6311193-e706-41c4-ad40-2f2b95c81045" name="Changes" comment="Заливаю пока как есть. В дальнейшем заучиваю, что здесь есть, и хотелось бы обложить немного проверками и попробовать сломать что-нибудь тут." />
+    <list default="true" id="b6311193-e706-41c4-ad40-2f2b95c81045" name="Changes" comment="Заливаю пока как есть. В дальнейшем заучиваю, что здесь есть, и хотелось бы обложить немного проверками и попробовать сломать что-нибудь тут.">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -18,8 +20,13 @@
     </option>
   </component>
   <component name="Git.Settings">
+    <option name="PUSH_TAGS">
+      <GitPushTagMode>
+        <option name="argument" value="--tags" />
+        <option name="title" value="All" />
+      </GitPushTagMode>
+    </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
-    <option name="UPDATE_TYPE" value="REBASE" />
   </component>
   <component name="GitHubPullRequestSearchHistory"><![CDATA[{
   "lastFilter": {
@@ -87,7 +94,15 @@
       <option name="project" value="LOCAL" />
       <updated>1751334740082</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Заливаю пока как есть. В дальнейшем заучиваю, что здесь есть, и хотелось бы обложить немного проверками и попробовать сломать что-нибудь тут.">
+      <option name="closed" value="true" />
+      <created>1751334852534</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1751334852534</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
