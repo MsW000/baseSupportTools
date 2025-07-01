@@ -41,6 +41,7 @@ SmartSupportTools/ ├── form_checker.py # Точка входа ├── f
 
 ```bash
 pip install openpyxl
+```
 
 Запусти основную проверку:
 
