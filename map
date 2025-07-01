@@ -1,17 +1,21 @@
 📁 SmartSupportTools/
 │
-├── 📄 form_checker.py         # Начальный скрипт: парсинг JSON-анкеты
-├── 📄 form_validator.py       # Проверка полей (валидация)
-├── 📄 form_logger.py          # Логирование проблем
-├── 📄 report_generator.py     # Генерация отчётов
-├── 📄 api_client.py           # Работа с внешними API (позже)
-├── 📄 database.py             # SQLite: сохранение анкет
+├── 📄 form_checker.py         # Точка входа: парсит JSON и запускает валидацию
+├── 📄 form_validator.py       # Проверка обязательных полей анкеты
+├── 📄 form_logger.py          # Логирование отсутствующих данных в errors.log
+├── 📄 report_generator.py     # Markdown-отчёт с результатами проверки
+├── 📄 export_to_csv.py        # Экспорт валидных анкет в .csv
+├── 📄 export_to_excel.py      # Экспорт в .xlsx (через openpyxl)
+├── 📄 stats_report.py         # Простая аналитика по базе: города, домены
+├── 📄 database.py             # Работа с SQLite: init и сохранение форм
 ├── 📁 data/
-│   └── 🧾 test_forms.json      # Примеры анкет
-├── 📁 logs/
-│   └── 🗒️ errors.log           # Логи ошибок
-├── 📁 reports/
-│   └── 📑 report.md            # Багрепорты
+│   └── 🧾 test_forms.json      # Анкеты для валидации (входной JSON)
 ├── 📁 db/
-│   └── 📦 forms.db             # Локальная база данных SQLite
-└── README.md                  # Документация проекта
+│   └── 📦 forms.db             # База SQLite с уникальными формами
+├── 📁 logs/
+│   └── 🗒 errors.log           # Сюда пишутся отсутствующие поля
+├── 📁 reports/
+│   ├── 📑 report.md           # Markdown-отчёт по проверенным анкетам
+│   ├── 📊 forms.csv           # CSV с валидными анкетами
+│   └── 📘 forms.xlsx          # Excel-таблица с валидными анкетами
+└── 📄 README.md               # Описание и инструкция к проекту
